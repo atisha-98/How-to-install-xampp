@@ -22,6 +22,7 @@ Follow pictures
 
 ![language](https://user-images.githubusercontent.com/119763541/205465107-72aabe14-e7bc-4a11-860b-883cf0e2a4bd.jpg)
 
-![controlpanel](https://user-images.githubusercontent.com/119763541/205465118-3071cd10-aebb-42fc-bdfe-e2c3c22c528c.jpg)
+![controlpanel](https://user-images.githubusercontent.com/119763541/205467269-93e8bf22-529c-47a0-9656-09a110f4999c.jpg)
+
 
 

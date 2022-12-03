@@ -1,5 +1,5 @@
 # how-to-install-xampp
-go to https://www.apachefriends.org/index.html
+Go to https://www.apachefriends.org/index.html
 
 ![download](https://user-images.githubusercontent.com/119763541/205464983-273aef21-a44b-4354-9781-e48d4ade5762.jpg)
 

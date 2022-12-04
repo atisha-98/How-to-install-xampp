@@ -24,5 +24,9 @@ Follow pictures
 
 ![controlpanel](https://user-images.githubusercontent.com/119763541/205467269-93e8bf22-529c-47a0-9656-09a110f4999c.jpg)
 
+Go to http://localhost
 
-
+![Welcome-to-XAMPP](https://user-images.githubusercontent.com/119763541/205467601-08920dea-3576-41cd-a8be-c5a687a7da50.jpg)
+ 
+ When you see this page, it means you succeeded.
+GOOD JOB.
